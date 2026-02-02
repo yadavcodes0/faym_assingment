@@ -4,11 +4,11 @@ A Flutter app with accordion-style expandable product collections, intelligent d
 
 ## Features
 
-- ✅ Accordion behavior (one collection open at a time)
-- ✅ Horizontally scrollable product images
-- ✅ Smart +N badge (updates dynamically as you scroll)
-- ✅ Fully responsive (MediaQuery-based scaling)
-- ✅ Smooth animations (300ms)
+- ✅ Accordion behavior (one collection open at a time) 
+- ✅ Horizontally scrollable product images 
+- ✅ Smart +N badge (updates dynamically as you scroll) 
+- ✅ Fully responsive (MediaQuery-based scaling) 
+- ✅ Smooth animations (300ms) 
 
 ## Project Structure
 
@@ -120,4 +120,5 @@ final padding = screenWidth * 0.04;
 ```
 
 ---
+
 
