@@ -84,13 +84,14 @@ flutter run
 
 ## Assignment Compliance
 
--✅ Scrollable collection cards
--✅ Expandable/collapsible with accordion behavior
--✅ Horizontal product images
--✅ Dynamic +N badge
--✅ Rounded corners & elevation
--✅ Smooth animations
--✅ Builds & runs successfully -**Bonus:** Fully responsive + scroll-aware badge system
+- ✅ Scrollable collection cards
+- ✅ Expandable/collapsible with accordion behavior
+- ✅ Horizontal product images
+- ✅ Dynamic +N badge
+- ✅ Rounded corners & elevation
+- ✅ Smooth animations
+- ✅ Builds & runs successfully
+  **Bonus:** Fully responsive + scroll-aware badge system
 
 ## Technical Stack
 
