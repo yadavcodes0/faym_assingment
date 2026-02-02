@@ -91,7 +91,7 @@ flutter run
 - ✅ Rounded corners & elevation
 - ✅ Smooth animations
 - ✅ Builds & runs successfully
-  **Bonus:** Fully responsive + scroll-aware badge system
+- **Bonus:** Fully responsive + scroll-aware badge system
 
 ## Technical Stack
 
