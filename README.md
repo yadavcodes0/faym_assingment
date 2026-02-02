@@ -76,7 +76,7 @@ Updates in real-time via `ScrollController.addListener()`.
 ## Installation & Run
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/yadavcodes0/faym_assingment.git
 cd faym_assingment
 flutter pub get
 flutter run
@@ -120,3 +120,4 @@ final padding = screenWidth * 0.04;
 ```
 
 ---
+
